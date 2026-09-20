@@ -1,15 +1,4 @@
 # 👋 Hi, I'm Harsh Raj
-
-<p align="center">
-  <img src="./profile-avatar.png" alt="Harsh Raj - AI/ML Developer" width="420"/>
-</p>
-
-<h3 align="center">B.Tech CSE (AI/ML) Student • AI/ML Enthusiast • Builder</h3>
-
-<p align="center">
-  <em>Build • Learn • Improve</em>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
